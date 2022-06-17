@@ -1,0 +1,12 @@
+function morph(commands, unicode, defaultUPM){
+    //Function name must be "morph"
+
+    for(var i=0; i<commands.length; i++) {
+        commands[i].command = "smooth curveto";
+        commands[i].x1 += 50;
+        commands[i].y1 -= 50;
+    }
+
+    //You Must return an array, first element is path commands, second element is upm(optimal)
+    return [ commands ] ;
+};
