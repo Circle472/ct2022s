@@ -1,4 +1,4 @@
-## PlusFont = StrongFont + ASCII 🤪🤪🤪
+## Intro.
 | Font Name | Source | Author | Word Count |
 | --- | --- | --- | --- |
 | CircleFont | 長恨歌、琵琶行、千字文、洛神賦、數字英文、標點符號、些許缺字 | 陳筱媛 | 3515 |
